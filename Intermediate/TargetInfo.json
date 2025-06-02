@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AI_ShortsAutoGen",
+			"Path": "..\\Source\\AI_ShortsAutoGen.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AI_ShortsAutoGenEditor",
+			"Path": "..\\Source\\AI_ShortsAutoGenEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

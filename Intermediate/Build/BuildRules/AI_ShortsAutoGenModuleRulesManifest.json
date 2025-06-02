@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"I:\\000_UnrealWork\\AI_ShortsAutoGen\\Source\\AI_ShortsAutoGen\\AI_ShortsAutoGen.Build.cs",
+		"I:\\000_UnrealWork\\AI_ShortsAutoGen\\Source\\AI_ShortsAutoGen.Target.cs",
+		"I:\\000_UnrealWork\\AI_ShortsAutoGen\\Source\\AI_ShortsAutoGenEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
